@@ -54,7 +54,7 @@ publisher, and a one-line note on why it is worth showing.
 
 ## 7. you need to learn MCP RIGHT NOW!! (Model Context Protocol)
 
-- **URL:** https://www.youtube.com/watch?v=GuTcle5edk
+- **URL:** https://www.youtube.com/watch?v=GuTcle5edjk
 - **Duration:** 38:40
 - **Publisher:** NetworkChuck
 - **Why show it:** The most-watched MCP intro (~1.6M views on its course series) and runs real MCP servers with Claude Desktop, LM Studio, and Cursor — people see the protocol actually working.
